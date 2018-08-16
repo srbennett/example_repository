@@ -1,0 +1,3 @@
+Pretend data stuff and analysis notes.
+
+Will this change be tracked? It's an ignored file!
